@@ -1,0 +1,18 @@
+spring:
+  profiles:
+    active: prod
+    include: jp
+
+#---
+#
+#spring:
+#  profiles: dev
+#server:
+#  port: 8080
+#
+#---
+#
+#spring:
+#  profiles: prod
+#server:
+#  port: 9090
